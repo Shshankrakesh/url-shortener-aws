@@ -1,6 +1,6 @@
 # URL Shortener — Containerized Microservice on AWS
 
-![CI/CD](https://github.com/YOUR_USERNAME/url-shortener-aws/actions/workflows/ci-cd.yml/badge.svg)
+![CI/CD](https://github.com/SHSHANKRAKESH/url-shortener-aws/actions/workflows/ci-cd.yml/badge.svg)
 
 A small Flask microservice that shortens URLs. It is **containerized with Docker**, tested and built by **GitHub Actions**, stored in **Amazon ECR**, and deployed on an **Amazon EC2** instance automatically on every push to `main`.
 
