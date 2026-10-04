@@ -1,0 +1,6 @@
+# Local run: docker compose up --build
+services:
+  web:
+    build: .
+    ports:
+      - "5000:5000"
